@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#for date
 echo "date:" $(date)
- 
+
+#for hostname
 echo "hostname:" $(hostname)
